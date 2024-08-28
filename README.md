@@ -11,6 +11,9 @@ File Descriptions
 task1final.ipynb
 Contains the solution for Task 1, which focuses on Exploratory Data Analysis (EDA) of the UCI-HAR dataset. It includes data preprocessing, visualization, and Principal Component Analysis (PCA).
 
+task2final.ipynb
+Provides the solution for Task 2, where advanced feature engineering techniques are applied to the UCI-HAR dataset. The notebook includes feature extraction, selection, and transformation processes to improve model performance.
+
 Task 3 DJ .ipynb
 This notebook covers the solution for Task 3, where decision tree models are trained and evaluated using different feature sets. It also includes performance analysis of the models.
 
