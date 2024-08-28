@@ -1,10 +1,13 @@
 # ML-assignment-Peti-Packers
 
-Human Activity Recognition (HAR) Assignment
+#Human Activity Recognition (HAR) Assignment
+
 Overview
+
 This repository contains the solution files for the Human Activity Recognition (HAR) assignment. The tasks involve data preprocessing, model training using decision trees, and exploring the use of Large Language Models (LLMs) for activity classification. The repository includes Jupyter Notebooks with code implementations and analysis.
 
 File Descriptions
+
 task1final.ipynb
 Contains the solution for Task 1, which focuses on Exploratory Data Analysis (EDA) of the UCI-HAR dataset. It includes data preprocessing, visualization, and Principal Component Analysis (PCA).
 
